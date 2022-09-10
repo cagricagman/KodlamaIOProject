@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4eniTk3kplWo3AMz3S0z0qLdlktmvR5AaY15fdk2scw=",
+  "Source": "KodlamaIO.WebAPI",
+  "BasePath": "_content/KodlamaIO.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\bin\Debug\net6.0\KodlamaIO.Domain.deps.json
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\bin\Debug\net6.0\KodlamaIO.Domain.dll
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\bin\Debug\net6.0\KodlamaIO.Domain.pdb
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\bin\Debug\net6.0\Core.Persistence.dll
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\bin\Debug\net6.0\Core.Persistence.pdb
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\obj\Debug\net6.0\KodlamaIO.Domain.csproj.AssemblyReference.cache
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\obj\Debug\net6.0\KodlamaIO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\obj\Debug\net6.0\KodlamaIO.Domain.AssemblyInfoInputs.cache
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\obj\Debug\net6.0\KodlamaIO.Domain.AssemblyInfo.cs
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\obj\Debug\net6.0\KodlamaIO.Domain.csproj.CoreCompileInputs.cache
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\obj\Debug\net6.0\KodlamaIO.Domain.csproj.CopyComplete
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\obj\Debug\net6.0\KodlamaIO.Domain.dll
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\obj\Debug\net6.0\refint\KodlamaIO.Domain.dll
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\obj\Debug\net6.0\KodlamaIO.Domain.pdb
+D:\Projeler\KodlamaIO\KodlamaIO.Domain\obj\Debug\net6.0\ref\KodlamaIO.Domain.dll

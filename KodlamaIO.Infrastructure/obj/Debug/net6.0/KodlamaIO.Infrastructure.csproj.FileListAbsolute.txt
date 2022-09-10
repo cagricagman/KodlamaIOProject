@@ -1,0 +1,12 @@
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\bin\Debug\net6.0\KodlamaIO.Infrastructure.deps.json
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\bin\Debug\net6.0\KodlamaIO.Infrastructure.dll
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\bin\Debug\net6.0\KodlamaIO.Infrastructure.pdb
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\obj\Debug\net6.0\KodlamaIO.Infrastructure.csproj.AssemblyReference.cache
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\obj\Debug\net6.0\KodlamaIO.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\obj\Debug\net6.0\KodlamaIO.Infrastructure.AssemblyInfoInputs.cache
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\obj\Debug\net6.0\KodlamaIO.Infrastructure.AssemblyInfo.cs
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\obj\Debug\net6.0\KodlamaIO.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\obj\Debug\net6.0\KodlamaIO.Infrastructure.dll
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\obj\Debug\net6.0\refint\KodlamaIO.Infrastructure.dll
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\obj\Debug\net6.0\KodlamaIO.Infrastructure.pdb
+D:\Projeler\KodlamaIO\KodlamaIO.Infrastructure\obj\Debug\net6.0\ref\KodlamaIO.Infrastructure.dll
